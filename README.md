@@ -2,17 +2,18 @@
 
 ### Motivation
 
-The field of cybersecurity data science (applications of data-intensive techniques often involving statist$
-machine learning to cybersecurity problems) is nascent and fast moving. This is both exciting and confusin$
-because there are a range of new, interesting, and promising approaches to cybersecurity problems. It's co$
-this field is disparate and inchoate, making assessment difficult. This small effort is an attempt to cata$
-of cybersecurity data science research: recent conference presentations.
+The field of cybersecurity data science (applications of data-intensive techniques often
+involving statistics and machine learning to cybersecurity problems) is nascent and fast
+moving. This is both exciting and confusing. It's exciting because there are a range of
+new, interesting, and promising approaches to cybersecurity problems. It's confusing because
+this field is disparate and inchoate, making assessment difficult. This small effort is 
+an attempt to catalogue one mode of cybersecurity data science research: recent conference presentations.
 
 For a blog post that describes this effort, see [here](https://www.google.com).
 
 ### Data and code
 
-For both a raw and cleaned version of the cybersecurity data science presentation dataset, see the data fo$
+For both a raw and cleaned version of the cybersecurity data science presentation dataset, see the data folder. For a Jupyter
 notebook that cleans and then analyzes this dataset, see the "csds_presentations.ipynb" file.
 
 ### Findings
@@ -28,4 +29,3 @@ malicious, avoid privacy concerns, and develop predictive models with at least a
 capability to transfer from one context to another. It’s worth pointing out though that
 cybersecurity data science in fact has many other topics and more methods than supervised
 machine learning. In other words, the field could even be deemed healthy...
-```
