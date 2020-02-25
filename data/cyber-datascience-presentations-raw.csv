@@ -1,0 +1,225 @@
+﻿forum,title,format,year,authors,institutions,domains,methods
+FloCon,SysFlow: Scalable System Telemetry for Improved Security Analytics,Presentation,2020,"Frederico Araujo,Teryl Taylor","IBM,IBM","host logs,network traffic",software tool development
+FloCon,Bayes at 10+ Gbps: Identifying Malicious and Vulnerable Process from Passive Traffic Fingerprinting,Presentation,2020,David McGrew,Cisco,"network traffic, encryption",supervised machine learning
+FloCon,Less is More with Intelligent Packet Capture,Presentation,2020,Randy Caldejon,CounterFlow AI,network traffic,none
+FloCon,Alchemy: Stochastic Data Augmentation for Malicious Network Traffic Detection,Presentation,2020,Bo Hu,NTT,network traffic,supervised machine learning
+FloCon,"The Long and Winding Road to ""Production Worthy""",Presentation,2020,Emily Heath,MITRE,malicious domains,"supervised machine learning,software tool development"
+FloCon,A Practical Decision Framework for Implementing Evasion-Resilient Host-Based Analytics,Presentation,2020,"Joe Mikhail,Brandon Werner","MITRE,MITRE",host logs,framework building
+FloCon,A Structural Approach to Modeling Ecrypted Connections,Presentation,2020,Anthony Kasza,Corelight,"network traffic, encryption",visualization
+FloCon,Automated Reasoning with ATT&CK,Presentation,2020,Jonathan Spring,CMU/SEI,automation,statistics
+FloCon,Mobile Users' Susceptibility to Phishing Attacks,Presentation,2020,Ley Sylvester,Blackbaud,email security,survey
+FloCon,How to Use Machine Learning for Phishing Incident Response,Presentation,2020,Erez Harusg,Palo Alto Networks,email security,supervised machine learning
+FloCon,"Look Ma, No Malware!",Presentation,2020,Renne Burton,Infoblox,DNS security,unsupervised machine learning
+FloCon,Malware's Abuse of Privacy Enhancing Technologies,Presentation,2020,Blake Anderson,Cisco,"malware, encryption",measurement
+FloCon,Code Similarity Detection Using Syntax-Agnostic Locality Sensitive Hashing,Presentation,2020,Lara Dedic,Novetta,code analysis,supervised machine learning
+FloCon,ML Detection of Cyber Attack Signatures from Known and New Threat Actors,Presentation,2020,Will Li,Vanguard,SOC operations,supervised machine learning
+FloCon,Using Deep Neural Networks to Detect Compromised Hosts in Large Scale Networks,Presentation,2020,"Angel Koditwakku,Eboni Thamavong","University of Tennessee, Booz Allen Hamilton",compromised host detection,supervised machine learning
+FloCon,Required Elements for Contrsucting a Highly Adoptable and Adaptive Digital Forensic Model,Presentation,2020,Ken Rodgers,K-Rod,digital forensics,framework building
+FloCon,Uncovering Priority Anomalies Using Pattern Discovery as a Roadmap for Contextual Analysis,Presentation,2020,Thomas Haretty,Resevoir Labs,"SOC operations, IDS","unsupervised machine learning, tensor analysis"
+FloCon,Countermeasures to Security Threats in Networked Medical Devices,Presentation,2020,Melinda Lyles,Florida Southwestern State College,medical devices,interviews
+FloCon,Cybersecurity Data Science 2020: Practitioner Perspectives and Guidance,Presentation,2020,Scott Mongeau,SAS Institute,cybersecurity data science,interviews
+FloCon,Improved Hunt Scoring with Specific Anomaly Scoring,Presentation,2019,Brenden Bishop,Columbus Collaboratory,network traffic,unsupervised machine learning
+FloCon,Using Triangulation to Evaluate Machine Learning Models,Presentation,2019,Andrew Fast,CounterFlow AI,cybersecurity data science,framework building
+FloCon,Cybersecurity Data Science: Best Practices from the Field,Presentation,2019,Scott Mongeau,SAS Institute,cybersecurity data science,interviews
+FloCon,Four Machine Learning Techniques that Tackle Scale - And not Just By Increasing Accuracy,Presentation,2019,Lindsey Lack,Gigamon Applied Threat Research,cybersecurity data science,framework building
+FloCon,The Power of Cyber Threat Intelligence,Presentation,2019,Eboni Thamavong,X8,"cybersecurity data science, decision analysis",framework building
+FloCon,The Generation and Use of TLS Fingerprints,Presentation,2019,"Blake Anderson, David McGrew, Keith Schomburg","Cisco, Cisco, Cisco","network traffic, encryption","measurement, unsupervised machine learning, dataset creation"
+FloCon,Monitoring Massive Network Traffic Using Bayesian Inference,Presentation,2019,David Rodriguez,Cisco,DNS security,supervised machine learning
+FloCon,Using Generative Adversarial Networks to Improve Phishing Domain Classifiers,Presentation,2019,"Jen Burns, Emily Heath","MITRE, MITRE",malicious domains,"supervised machine learning, generative adversarial networks"
+FloCon,Harvesting Logs for Enhanced Investigations,Presentation,2019,David Gainey,Defense Information Systems Agency,digital forensics,framework building
+FloCon,Network Telescopes Revistied: From Loads of Unwanted Traffic to Threat Intelligence,Presentation,2019,"Piotr Bazydlo, Adrian Korczak, Pawel Pawlinski","NASK, NASK, NASK",internet scanning,measurement
+FloCon,Time-Based Correlation of Malicious Events and Their Connections,Presentation,2019,"Steve Henderson, Brittany Nichols, Brian Ehmann","Enlighten IT Consulting, Enlighten IT Consulting, Enlighten IT Consulting","network traffic, host logs",statistics
+FloCon,IMPACT: Information Marketplace for Policy and Analysis of Cyber-risk and Trust,Presentation,2019,Jeff Schmidt,Columbus Collaboratory,network traffic,dataset creation
+FloCon,InSight2: IRNC Advanced Measurements and Instrumentation (AMI),Presentation,2019,"Angel Kodituwakku, Jens Gregor, Buseung Cho, Carter Bullard","University of Tennessee Knoxville, University of Tennessee Knoxville, KISTI, Qusient LLC",network traffic,visualization
+FloCon,Detecting Automatic Flows,Presentation,2019,Jeffrey Dean,United States Air Force,network traffic,supervised machine learning
+FloCon,Quantum Approaches to Inverse Malware Eradication,Presentation,2019,"Daniel Medina,Matt Shabat","Glasswall Solutions Inc., Glasswall Solutions Inc.",malware,framework building
+FloCon,Big Data Platform,Presentation,2018,unknown,Enlighten IT Consulting,big data,framework building
+FloCon,Creating and Sharing Value with Network Activity and Threat Correlation,Presentation,2018,Jamison Day,Looking Glass,"network traffic, threat intelligence",framework building
+FloCon,Anomaly Detection in Cyber Networks using Graph-node and Role-Dynamics and NetFlow Bayesian Normalcy Modeling,Presentation,2018,"Anthony Palladino, Christopher Thissen, Andrew Spisak","Boston Fusion Corp, Boston Fusion Corp, Boston Fusion Corp","IDS, network traffic","dataset creation, graph analysis, unsupervised machine learning"
+FloCon,When Threat Hunting Fails: Identifying Malvertising Domains Using Lexical Clustering,Presentation,2018,"Matt Foley, David Rodriguez, and Dhia Mahjoub","Cisco, Cisco, OpenDNS",malicious domains,unsupervised machine learning
+FloCon,Optimal Machine Learning Algorithms for Cyber Threat Detection,Presentation,2018,Hafiz Farooq,Saudi Aramco,SOC operations,"supervised machine learning, unsupervised machine learning"
+FloCon,"Analysis of DNS Traffic on the Network EDGE, and In Motion",Presentation,2018,Fred Stringer,AT&T,"network traffic, DNS security",supervised machine learning
+FloCon,Detecting Malicious IPs and Domain Names by Fusing Threat Feeds and Passive DNS through Graph Inference ,Presentation,2018,"Emily Heath, Eric Harley","MITRE,MITRE",malicious domains,"graph analysis, supervised machine learning"
+FloCon,An Interactive Web Based Platform for Modeling and Analysis of Large Scale Argus Network Flow Data,Presentation,2018,"Angel Kodituwakku, J.T. Liso, Jens Gregor","University of Tennessee Knoxville, University of Tennessee Knoxville, University of Tennessee Knoxville",network traffic,visualization
+FloCon,Identification of Malicious SSL Networks by Subgraph Anomaly Detection,Presentation,2018,"Thomas Mathew, Dhia Mahjoub","OpenDNS,OpenDNS",malicious domains,unsupervised machine learning
+FloCon,Threat Hunting for Lateral Movement,Presentation,2018,"Adam Fuchs,Ryan Nolette","Sqrrl,Sqrrl","host logs, lateral movement",supervised machine learning
+FloCon,Anomaly Detection in Bipartite Networks,Presentation,2018,Mohammed Eslami,Netrias,"network traffic, network entities",graph analysis
+FloCon,Eliminating Barriers to Automated Tensor Analysis for Large-scale Flows,Presentation,2018,James Ezick,Resevoir Labs,network traffic,"tensor analysis, visualization"
+FloCon,Multi-Dimensional Network Anomaly Detection with Machine Learning,Presentation,2018,"Andrew Fast,Randy Caldejon",Counterflow AI,network traffic,unsupervised machine learning
+FloCon,Automated Detection and Analysis of IoT Network Traffic Through Distributed Open Source Sensors and Citizen Scientists,Presentation,2018,Joe McManus,University of Colorado,"network traffic, IoT",supervised machine learning
+FloCon,Cygraph: Big-Data Graph Analysis for Cybersecurity and Mission Resilience,Presentation,2018,Steven Noel,MITRE,network entities,graph analysis
+FloCon,An API to Filter Network Flows in the Web to Use as Plug in Web Based Network Visualization Apps,Presentation,2017,"Julio de la Cruz, Ian Davila, Jose Ortiz Ubarri","University of Puerto Rico, University of Puerto Rico, University of Puerto Rico",network traffic,visualization
+FloCon,Mothra: A Large-Scale Data Processing Platform for Network Security Analysis,Presentation,2017,Tony Cebzanov,CMU/SEI,"network traffic, big data",software tool development
+FloCon,DDoS Defense for a Community of Peers,Presentation,2017,"Jem Berkes, Adam Wick","Galois,Galois","network traffic, DDoS",software tool development
+FloCon,Netflow Collection and Analysis at Tier 1 Internet Peering,Presentation,2017,Fred Stringer,AT&T,"network traffic, ISP security, big data","visualization, software tool development"
+FloCon,Backbone Network DRDoS Attack Monitoring and Analysis,Presentation,2017,"Yang Xu,Qtian Su",Qihoo,"network traffic, DDoS, DNS security",measurement
+FloCon,I Want Your Flows to be Lies,Presentation,2017,Adam Wick,Galois,"network traffic, deception",software tool development
+FloCon,"Detecting Threats, Not Sandboxes (Characterizing Network Environments to Improve Malware Classification)",Presentation,2017,"Blake Anderson, David McGrew","Cisco, Cisco","network traffic, malware",supervised machine learning
+FloCon,Assessing Targeted Attacks in Incident Response Threat Correlation,Presentation,2017,"Allan Thomson,Jamison Day","Looking Glass, Looking Glass","network traffic, threat intelligence",framework building
+FloCon,Using Flow for Realtime Management in 100G Networks,Presentation,2017,"John Gerth,Johan van Reijendam","Stanford University,Stanford University",network traffic,visualization
+FloCon,Finding the Needle in the Haystack,Presentation,2017,Jonzy Jones,University of Utah,network traffic,visualization
+FloCon,Silkweb - Analyze Silk Data Through API and Javascript Frameworks,Presentation,2017,"Vijay S. Sarvepalli,Dwight S. Beaver","CMU/SEI,CMU/SEI",network traffic,"software tool development, visualization"
+FloCon,Navigating the Pitfalls and Promises of Network Security Monitoring (NSM),Presentation,2017,"Scott Miserndino,Michael Gora","BluVector,BluVector","network traffic, IDS",framework building
+FloCon,A Meaningful Metric for IPv4 Addresses,Presentation,2016,Leigh Metcalf,CMU/SEI,network traffic,measurement
+FloCon,Better Reporting Guidelines for Better Data,Presentation,2016,"Christopher Washington, Brian Allen","DHS/US-CERT,DHS/US-CERT",threat intelligence,framework building
+FloCon,Capturing and Processing One Million Network Flows Per Second with SiLK,Presentation,2016,"Robert W. Techentin, David R. Holmes III, James C. Nelms, Barry K. Gilbert","Mayo Clinic, Mayo Clinic, Mayo Clinic, Mayo Clinic","network traffic, big data",software tool development
+FloCon,Classifying Encrypted Traffic with TLS-aware Telemetry,Presentation,2016,"Blake Anderson, David McGrew, Alison Kendler","Cisco, Cisco, Cisco","network traffic, encryption, malware","dataset creation, supervised machine learning, software tool development"
+FloCon,"Command and Control Mechanism Trends in Exploit Kits, RATs, APTs, and Other Malware",Presentation,2016,Mark Mager,DHS/US-CERT,"network traffic, command and control channels","measurement, framework building"
+FloCon,Data Fusion: Enhancing NetFlow Graph Analytics,Presentation,2016,"Emilie Purvine, Bryan Olsen, Cliff Joslyn","Pacific Northwest National Laboratory, Pacific Northwest National Laboratory, Pacific Northwest National Laboratory","network traffic, host logs","dataset creation, graph analysis"
+FloCon,Detecting Traffic to Recently Unparked Domains with Analysis Pipeline,Presentation,2016,Dan Ruef,CMU/SEI,network traffic,dataset creation
+FloCon,Distributed Sensor Data Contextualization at Scale for Threat Intelligence Analysis,Presentation,2016,Jason Trost,ThreatStream,"threat intelligence, big data",framework building
+FloCon,"Gosh Wow, Volusia Networks!",Presentation,2016,Brian Whiting,Volusia County,network traffic,user experience
+FloCon,Graph Analysis Techniques for Network Flow Records Using Open Cyber Ontology Group (OCOG) Format,Presentation,2016,"Robert W. Techentin, David R. Holmes III, James C. Nelms, Barry K. Gilbert","Mayo Clinic, Mayo Clinic, Mayo Clinic, Mayo Clinic",network traffic,"graph analysis, framework building"
+FloCon,Intelligence Driven Malware Analysis (IDMA) Malicious Profiling,Presentation,2016,Casey Kahsen,Northrop Grumman Corporation,malware,"framework building, user experience"
+FloCon,Making the Most of a Lot [of Data]: Netflow in US-CERT Operations,Presentation,2016,Chad Hein,Phia LLC,"network traffic, big data",user experience
+FloCon,Merging Network Configuration and Network Traffic Data in ISP-Level Analyses,Presentation,2016,Timothy Shimeall,CMU/SEI,network traffic,framework building
+FloCon,"Minimizing the Gaps with Bro, GRR, and Elk (Brogrrelk)",Presentation,2016,David Zito,Northrop Grumman Corporation,"network traffic, host logs",software tool development
+FloCon,Monitoring and Classification of Active IPv6 Addresses,Presentation,2016,David Plonka,Akamai,network traffic,measurement
+FloCon,Netflow Analysis,Presentation,2016,Jonzy Jones,University of Utah,network traffic,user experience
+FloCon,Netflow in Daily Information Security Operations,Presentation,2016,Mike Pochan,CMU/SEI,network traffic,user experience
+FloCon,Network Monitoring and Deceptive Defenses,Presentation,2016,"Michael Collins, Brian Satira","RedJack, Noblis","network traffic, deception",software tool development
+FloCon,"Network Security Analytics, HPC Platforms, Hadoop, and Graphs...Oh My",Presentation,2016,Aaron Bossert,Cray Inc.,"network traffic, host logs, big data","software tool development, software tool development"
+FloCon,New DNS Traffic Analysis Techniques to Identify Global Internet Threats,Presentation,2016,"Dhia Mahjoub, Thomas Matthew","OpenDNS,OpenDNS","DNS security, malicious domains","supervised machine learning, graph analysis"
+FloCon,Planning Curricula for the Network Traffic Analyst of 2018-2020,Presentation,2016,Timothy Shimeall,CMU/SEI,network traffic,framework building
+FloCon,Role Model Transformations for Flow Analysis in Cyberdefense,Presentation,2016,John Gerth,Stanford University,network traffic,framework building
+FloCon,The Security Wolf of Wall Street: Fighting Crime with High-Frequency Classification and Natural Language Processing,Presentation,2016,Jeremiah O'Connor and Thibault Reuille,"OpenDNS,OpenDNS","threat intelligence, big data","supervised machine learning, natural language processing"
+FloCon,Situational Awareness Threat Report (SATR),Presentation,2016,"Stacie Green, Casey Kahsen","Northrop Grumman Corporation, Northrop Grumman Corporation",threat intelligence,measurement
+FloCon,Sources and Applications of Performance and Security-Augmented Flow Data,Presentation,2016,Avi Freedman,Kentik,network traffic,framework building
+FloCon,Towards 100 Gbit Flow-Based Network Monitoring,Presentation,2016,"Luca Deri,Alfredo Cardigliao","ntop,ntop",network traffic,software tool development
+FloCon,Understanding Network Traffic through Intraflow Data,Presentation,2016,"David McGrew, Blake Anderson","Cisco, Cisco",network traffic,"dataset creation, supervised machine learning, software tool development"
+FloCon,Using Domain Name Registrant Information to Identify Malicious Domains,Presentation,2016,Mark Langston,CMU/SEI,malicious domains,measurement
+CAMLIS,Trying to Make Meterpreter into an Adversarial Example,Presentation,2019,Andy Applebaum,MITRE,"malware, adversarial learning",reinforcement learning
+CAMLIS,Scalable Infrastructure for Malware Labeling and Analysis,Presentation,2019,Konstantin Berlin,Sophos,"malware, big data, labeling",dataset creation
+CAMLIS,TweetSeeker: Extracting Adversary Methods from the Twitterverse,Presentation,2019,Matthew Berninger,FireEye,threat intelligence,"natural language processing, graph analysis, supervised machine learning"
+CAMLIS,PowerShell Malware Detection using AMSI,Presentation,2019,Liam Bressler,SparkCognition,malware,supervised machine learning
+CAMLIS,Applying Deep Graph Representation Learning to the Malware Graph,Presentation,2019,C. Bayan Bruss,Capital One,malware,"graph analysis, supervised machine learning"
+CAMLIS,CNN-Based Malware Visualization and Explainability,Presentation,2019,"Lara Dedic, Matthew Teschke","Novetta, Novetta","malware, explainability","supervised machine learning, visualization"
+CAMLIS,Describing Malware via Tagging,Presentation,2019,Felipe Ducau,Sophos,"malware, labeling, explainability",supervised machine learning
+CAMLIS,Mitigating Adversarial Attacks against Machine Learning for Static Analysis,Presentation,2019,David Elkind,Crowdstrike,"malware, adversarial learning",supervised machine learning
+CAMLIS,ProblemChild: Discovering Anomalous Patterns Based on Parent-Child Process Relationships,Presentation,2019,"Bobby Filar, David French, Hyrum Anderson","Elastic,Elastic,Elastic","malware, host logs",supervised machine learning
+CAMLIS,What is the Shape of an Executable,Presentation,2019,Erick Galinkin,Netskope,malware,"supervised machine learning, dataset creation"
+CAMLIS,Using Lexical Features for Malicious URL Detection: A Machine Learning Approach,Presentation,2019,Apoorva Joshi,FireEye,malicious domains,"supervised machine learning, dataset creation"
+CAMLIS,An Information Security Approach to Feature Engineering,Presentation,2019,Brian Murphy,Reliaquest,feature engineering,framework building
+CAMLIS,Next Generation Process Emulation with Binee,Presentation,2019,Jared Nishikawa,vmware,"malware, feature engineering","software tool development, supervised machine learning"
+CAMLIS,EMBER Improvements,Presentation,2019,Phil Roth,Elastic,malware,dataset creation
+CAMLIS,Exploring Backdoor Poisoning Against Malware Classifiers,Presentation,2019,"Giorgio Serveri, Jim Meyer, Scott Coull","FireEye,FireEye,Fireeye","malware, adversarial learning",supervised machine learning
+CAMLIS,Applications of Graph Integration to Function Comparison and Malware Classification,Presentation,2019,"Michael Slawinski, Andy Wortman","Cylance,Cylance",malware,supervised machine learning
+CAMLIS,Learning to Rank Relevant Malware Strings Using Weak Supervision,Presentation,2019,"Phillip Tully, Matthew Haigh, Jay Gibble","FireEye,FireEye,Fireeye,FireEye","malware, labeling",supervised machine learning
+CAMLIS,Towards a Trustworthy and Resilient Machine Learning Classifier,Presentation,2019,"Evan Yang,Ravi Sahita","Intel,intel",malware,"supervised machine learning, dataset creation"
+CAMLIS,Privacy-preserving Surveillance Methods using Homomorphic Encryption,Poster,2019,"William Bowditch,Bill Buchanan,Will Abramson,Nikolaos Pitropakis,Adam Hall","unknown,unknown,unknown,unknown,unknown","privacy, labeling, encryption","dataset creation, framework building"
+CAMLIS,Supervised/Unsupervised Cross-over Method for Autonomous Anomaly Classification,Poster,2019,Neil Caithness,Senseon,unknown,"supervised machine learning, unsupervised machine learning"
+CAMLIS,Detecting Unexpected Network Flows with Streaming Graph Clustering,Poster,2019,Andrew Fast,CounterFlow AI,network traffic,graph analysis
+CAMLIS,On the OTHER Application of Graph Analytics for Insider Threat Detection,Poster,2019,"Nahid Farhady Ghalaty, Ana Cruz","Capital One, Capital One",insider threat detection,graph analysis
+CAMLIS,Cyber-Adversary Behavior Extraction and Comparisons Using IDS Alert Logs,Poster,2019,Stephen Moskal,Rochester Institute of Technology,"IDS, threat intelligence",participant observation
+CAMLIS,Canopy: A Learning-Based Approach for Automatic Low-Volume DDoS Mitigation,Poster,2019,"Banjo Obayomi, Chris Todd, Lucas Cadalzo, Brad Moore, Tony Wong","Two Six Labs, Two Six Labs, Two Six Labs, Two Six Labs, Two Six Labs","network traffic, DDoS",supervised machine learning
+CAMLIS,Predicting Exploitability: Forecasts for Vulnerability Management,Poster,2019,Michael Roytman,Kenna Security,vulnerability management,supervised machine learning
+CAMLIS,The Secret Life of Pwns: Characterizing and Predicting Exploit Weaponization,Poster,2019,"Octavian Suciu, Erin Avllazagaj, Tudor Dumitras","University of Maryland, University of Maryland, University of Maryland","malware, vulnerability management",supervised machine learning
+CAMLIS,Serverless Machine Learning for Phishing,Poster,2019,Scott Rodgers,TIAA-CREF,"email security, SOC operations",supervised machine learning
+CAMLIS,Adversarial Attacks against Malware N-gram Machine Learning Classifiers,Poster,2019,Emily Rogers,unknown,"malware, adversarial learning",natural language processing
+CAMLIS,Toward a Public Dataset/Benchmark for ML-Sec,Poster,2019,"Richard Harang, Ethan Rudd","Sophos, Sophos",malware,dataset creation
+CAMLIS,Phish Language Processing,Poster,2019,Santhosh Kumar Ramachandran,Cognizant,email security,supervised machine learning
+CAMLIS,Linking Exploits from the Dark Web to Known Vulnerabilities for Proactive Cyber Threat Intelligence,Poster,2019,Sagar Samtani,University of South Florida,"dark web, threat intelligence",dataset creation
+CAMLIS,Evaluating the Potential Threat of Generative Adversarial Models to Intrusion Detection Systems,Poster,2019,Conrad Tucker,unknown,"IDS, network traffic, adversarial learning",supervised machine learning
+CAMLIS,APTinder: Finding APT Matches in a Lonely Internet,Presentation,2018,Matthew Berninger,FireEye,threat intelligence,"natural language processing, unsupervised machine learning"
+CAMLIS,Bonware to the Rescue: The Future Autonomous Cyber Defense Agents,Presentation,2018,Alexander Kott,Army Research Laboratory,autonomy,reinforcement learning
+CAMLIS,"Anticipatory Cyber Defense: Predictive Analytics, Machine Learning and Simulation",Presentation,2018,S. Jay Yang,Rochester Institute of Technology,"autonomy, threat intelligence","dataset creation, supervised machine learning"
+CAMLIS,Worm2Vec: Embedding Malicious Code for Efficient Clustering and Classification,Presentation,2018,C. Bayan Bruss,Capital One,malware,"natural language processing, unsupervised machine learning"
+CAMLIS,Inferring Model Families from Deployed Black Boxes,Presentation,2018,Rebecca Bilbro,ByteCubed,adversarial learning,framework building
+CAMLIS,Serverless Data Processing Architecture for Binary Analysis,Presentation,2018,Kyle Gwinnup,CarbonBlack,"malware, big data",software tool development
+CAMLIS,Datasets for the Everyman,Presentation,2018,Ryan Kovar,Splunk,cybersecurity data science,dataset creation
+CAMLIS,Labeling Red: Harvesting Labeled Data from Adversary Simulations,Presentation,2018,Brian Genz,Northwestern Mutual,"labeling, red teaming","dataset creation, supervised machine learning"
+CAMLIS,Activation Analysis of a Byte-based Deep Neural Network for Malware Classification,Presentation,2018,Scott Coull,FireEye,"malware, feature engineering",supervised machine learning
+CAMLIS,Semi-Supervised Learning of File Representations,Presentation,2018,Hyrum Anderson,Endgame,"malware, feature engineering","supervised machine learning, unsupervised machine learning"
+CAMLIS,"Measure Twice, Quarantine Once: A Tale of Malware Labeling Over Time",Presentation,2018,David Krisiloff,FireEye,"malware, labeling",supervised machine learning
+CAMLIS,An Effective Framework for Malware Detection and Classification using Feature Prioritization,Presentation,2018,Nahid Farhady,Accenture,malware,supervised machine learning
+CAMLIS,Interpretation of Threat Prediction Model for SOC Analysts,Presentation,2018,Awalin Sopan,FireEye,"SOC operations, explainability",supervised machine learning
+CAMLIS,Loss Structures for Problems with Unequal Misclassification Costs: A Website Classification Study,Presentation,2018,Cody Wild,Sophos,malicious domains,supervised machine learning
+CAMLIS,Point Process Modeling of Temporal Patters in User Authentication Behavior,Presentation,2018,Bronwyn Woods,Duo,authentication,supervised machine learning
+CAMLIS,Using Anomaly Detection on User Demographic Distributions to Identify Fake Account Bursts,Presentation,2018,"Frances Zlotnick, Will Fitzgerald","GitHub, GitHub",account fraud,framework building
+CAMLIS,Estimating Uncertainty for Binary Classification,Presentation,2018,"Richard Harang, Ethan Rudd","Sophos, Sophos",malware,supervised machine learning
+CAMLIS,TreeHuggr: Discovering Where Tree-Based Classifiers are Vulnerable to Adversarial Attack,Presentation,2018,Bobby Filar,Endgame,"adversarial learning, malware, explainability",supervised machine learning
+CAMLIS,Automated In-Memory Malware/Rootkit Detection via Binary Analysis and Machine Learning,Presentation,2018,Malachi Jones,MITRE,malware,unsupervised machine learning
+CAMLIS,Improved Multi-Stage Classification for Information Security Applications,Presentation,2018,Lindsey Lack,Gigamon Applied Threat Research,malware,supervised machine learning
+CAMLIS,User-Based Network Anomaly Detection Using Self-Organizing Maps,Presentation,2017,Catherine Edwards,Capital One,network traffic,unsupervised machine learning
+CAMLIS,"Lean, Data-Driven Social Media Security",Presentation,2017,Phillip Tully,FireEye,"social media, cybersecurity data science","natural language processing, supervised machine learning"
+CAMLIS,"Spill Trees at Scale with Hierarchical Divisive Clustering: Catching Domain Squatting, Credential Misuse, and Other Attacks",Presentation,2017,Nathan Danneman,Data Machines,"explainability, malicious domains, authentication",supervised machine learning
+CAMLIS,Estimating Weight Sharing in Multi-Task Networks via Approximate Fisher Information,Presentation,2017,Richard Harang,Sophos,statistical methodology,supervised machine learning
+CAMLIS,Scalabe Temporal Analytics to Detect Automation and Coordination,Presentation,2017,Lauren Deason,Punch Cyber,statistical methodology,framework building
+CAMLIS,Parallelized Hyperparameter Optimization for Machine Learning Models,Presentation,2017,Keegan Hines,Capital One,statistical methodology,supervised machine learning
+CAMLIS,A New Kind of Deep Learning,Presentation,2017,Ruslan Vaulin,Sqrrl,statistical methodology,supervised machine learning
+CAMLIS,Slowly Going Down: A Machine Intelligence Approach to Low Volume DDoS Attacks,Presentation,2017,"Melissa Kilby, Patrick Dwyer","Two Six Labs, Two Six Labs","DDoS, network traffic",supervised machine learning
+CAMLIS,Creating Conversational Interfaces to Recontextualize Security Work,Presentation,2017,Richard Seymour,Endgame,"SOC operations, explainability",software tool development
+CAMLIS,A Data Pipeline for Behavioral Clustering and Classification in Enterprise Networks,Presentation,2017,David Pekarek,IronNet Cybersecurity,"network traffic, network entities",supervised machine learning
+CAMLIS,Representation Learning for Malware Classification,Presentation,2017,Jeffrey Johns,FireEye,"malware, feature engineering",supervised machine learning
+AAAI/AICS,Markov Game Modeling of Moving Target Defense for Strategic Detection of Threats in Cloud Networks,Presentation,2019,"Ankur Chowdhar, Sailol Sengupta, Dijiang Huang, Subbarao Kambhampati","Arizona State University, Arizona State University, Arizona State University, Arizona State University",cloud computing,game theory
+AAAI/AICS,Towards Thwarting Social Engineering Attacks,Presentation,2019,"Zheyuan Ryan Shi, Aaron Schlenker, Brian Hay, Aaron Ferber, Fei Fang","Carnegie Mellon University, Facebook, Security Works, unknown, Carnegie Mellon University","social engineering, watering hole attack","game theory, software tool development"
+AAAI/AICS,Deriving Cyber-Security Requirements for Cyber Physical Systems,Presentation,2019,"Robert Laddaga, Paul Robertson, Howard Shrobe, Dan Cerys, Prakash Manghwani, Patrik Meijer","Vanderbilt University, DOLL Labs, MIT, DOLL Labs, DOLL Labs, Vanderbilit University","automation, security design",modeling
+AAAI/AICS,Data Masking with Privacy Guarantees,Presentation,2019,"Anh T. Pham, Shalini ghosh, Vinod Yegneswaran","Oregon State University, Samsung, SRI International",privacy,"dataset creation, supervised machine learning"
+AAAI/AICS,Fuzzy Hashing as Perturbation-Consistent Adversarial Kernel Embedding,Presentation,2019,"Ari Azarafrooz, John Brock","Cylance,Cylance","malware, statistical methodology",supervised machine learning
+AAAI/AICS,A Multiversion Programming Inspired Appoach to Detecting Audio Adversarial Examples,Presentation,2019,"Jianhau Su, Chenglong Fu, Golam Kaya, Lannan Luo, Qiang Zeng","University of South Carolina, Temple University, Temple University, University of South Carolina, University of South Carolina","audio, adversarial learning",supervised machine learning
+AAAI/AICS,Non-Negative Networks Against Adversarial Attacks,Presentation,2019,"William Fleshman, Edward Raff, Jared Sylvester, Steven Forsyth, Mark McLean","Laboratory for Physical Sciences, Booz Allen Hamilton, Booz Allen Hamilton, Nvidia, Laboratory for Physical Sciences","adversarial learning, malware, email security",supervised machine learning
+AAAI/AICS,Structure-Preserving Transformation: Generating Diverse and Transferable Adversarial Examples,Presentation,2019,"Dan Peng, Zizhan Zheng, Xiaofeng Zhang","Harbin Institute of Technology, Tulane University, Harbin Institute of Technology",adversarial learning,supervised machine learning
+AAAI/AICS,"Enhancing Robustness of Deep Neural Networks Against Adversarial Malware Samples: Principles, Frameworks, and AICS'2019 Challenge",Presentation,2019,"Deqiang Li, Qianmu Li, Yanfang Ye, Shouhuai Xu","Florida International University, Nanjing University of Science and Technology, West Virginia University, University of Texas at San Antonio","malware, adversarial learning","supervised machine learning, framework building"
+AAAI/AICS,Black-Box Attacks against RNN based Malware Detection Algorithms,Presentation,2018,Weiwei Hu,Peking University,"malware, adversarial learning",supervised machine learning
+AAAI/AICS,Deceitful Attacks in Security Games,Presentation,2018,Thanh Nguyen,University of Michigan,attacker-defender dynamics,game theory
+AAAI/AICS,Adequacy of the Gradient-Descent Method for Classifier Evasion Attacks,Presentation,2018,Yi Han,University of Melbourne,adversarial learning,supervised machine learning
+AAAI/AICS,Steganographic Internet of Things: Graph Topology Timing Channels,Presentation,2018,Brian Jalaian,Army Research Laboratory,cryptography,"graph analysis, statistics"
+AAAI/AICS,RADMAX: Risk and Deadline Aware Planning for Maximum Utility,Presentation,2018,Jingkai Chen,MIT,network traffic,"modeling, optimization"
+AAAI/AICS,"""Attention"" for Detecting Unreliable News in the Information Age",Presentation,2018,Venkatesh Duppada,Seernet Technologies,fake news,"natural language processing, supervised machine learning"
+AAAI/AICS,Recurrent Neural Network Language Models for Open Vocabulary Event-Level Cyber Anomaly Detection,Presentation,2018,Aaron Tuor,Pacific Northwest National Laboratory,"network traffic, host logs, IDS","natural language processing, supervised machine learning"
+AAAI/AICS,Detecting Cyberattack Entities from Audit Data via Multi-View Anomaly Detection with Feedback,Presentation,2018,Md Amran Siddiqui,Oregon State University,"network traffic, host logs, SOC operations, labeling","supervised machine learning, dataset creation"
+AAAI/AICS,Malware Detection by Eating a Whole EXE,Presentation,2018,Edward Raff,University of Maryland Baltimore County,"malware, feature engineering",supervised machine learning
+AAAI/AICS,End-to-End Active Learning for Computer Security Experts,Presentation,2018,Anael Beaugnon,French Network Security Agency,"labeling, SOC operations",software tool development
+AAAI/AICS,Adding Honeypot Configurations to Detect Evolving Exploits,Presentation,2017,Marcus Gutierrez,University of Texas at El Paso,honeypots,"game theory, modeling"
+AAAI/AICS,Qualitative Reasoning about Cyber Intrusions,Presentation,2017,Paul Robertson,DOLL Labs,attacker-defender dynamics,modeling
+AAAI/AICS,Towards a Multi-tiered Knowledge-based System for Autonomous Cloud Security Auditing,Presentation,2017,Saad Khan,University of Huddersfield,cloud computing,expert systems
+AAAI/AICS,Deep Learning for Unsupervised Insider Threat Detection in Structured Cybersecurity Data Streams,Presentation,2017,Aaron Tuor,Western Washington University,"insider threat detection, host logs",unsupervised machine learning
+AAAI/AICS,A Game-Theoretic Approach for Alert Prioritization,Presentation,2017,Aron Laszka,Vanderbilt University,"IDS, SOC operations",game theory
+AAAI/AICS,A Stackelberg Game Model for Botnet Traffic Exfiltration,Presentation,2017,Thanh Nguyen,University of Michigan,botnets,game theory
+AAAI/AICS,Toward Finding Malicious Cyber Discussions in Social Media,Presentation,2017,David J. Weller-Fahy,Lincoln Laboratory,"social media, threat intelligence","natural language processing, supervised machine learning"
+AAAI/AICS,Collective Classification of Social Network Spam,Presentation,2017,Jonathan Brophy,University of Oregon,"social media, spam","graph analysis, natural language processing, supervised machine learning"
+AAAI/AICS,ATOL: A Framework for Automated Analysis and Categorization of the Darkweb Ecosystem,Presentation,2017,Shalini Ghosh,SRI International,dark web,supervised machine learning
+AAAI/AICS,Discovering Human and Machine Readable Descriptions of Malware Families,Presentation,2016,Subharthi Paul,Cisco,"malware, explainability","unsupervised machine learning, optimization"
+AAAI/AICS,Bayesian Networks with Prior Knowledge for Malware Phylogenetics,Presentation,2016,Diana Oyen,Los Alamos National Laboratory,malware,bayesian statistics
+AAAI/AICS,Toward Augmentation-Based Cyber Attribution,Presentation,2016,Eric Nunes,Arizona State University,"network traffic, attribution","dataset creation, supervised machine learning"
+AAAI/AICS,Validating Agent-Based Modeling of Human Password Behavior,Presentation,2016,Vijay Kothari,Dartmouth College,passwords,modeling
+AAAI/AICS,Socio-Cultural Modeling for Cyber Threat Actors,Presentation,2016,Paulo Shakarian,Arizona State University,threat intelligence,"framework building, interviews"
+AAAI/AICS,Bandits for Cybersecurity: Adaptive Intrusion Detection Using Honeypots,Presentation,2016,Marcus Gutierrez,University of Texas at El Paso,honeypots,game theory
+AAAI/AICS,Inter-Temporal Incentives in Security Information Sharing,Presentation,2016,Parinaz Naghizadeh Ardabili,University of Michigan,information sharing,game theory
+AAAI/AICS,UCO: A Unified Cybersecurity Ontology,Presentation,2016,Ankur Padia,University of Maryland,threat intelligence,ontology building
+AAAI/AICS,Active Perception and Cyber Defense,Presentation,2016,Mark Burstein,SIFT,"IDS, decision analysis",modeling
+AI Village at DEFCON,Seeing is Decieving: The Rise of AI-synthesized Fake Media,Presentation,2019,Siwei Lyu,SUNY Albany,"deepfakes, fake news",supervised machine learning
+AI Village at DEFCON,Exploratory Data Analysis: Why and How (in Python),Presentation,2019,Lauren Putvin,Cisco,statistical methodology,visualization
+AI Village at DEFCON,"A ""Buyers Guide"" to Market Promise of Automagic AI-enabled Detection and Response",Presentation,2019,Jon Hawes,Photobox Group,cybersecurity data science,framework building
+AI Village at DEFCON,Network Defenders in a Data Scientist World,Presentation,2019,"Ryan Kovar, Dave Herrald, David Veuve","Splunk, Splunk, Splunk","cybersecurity data science, network traffic",framework building
+AI Village at DEFCON,Fighting Malware with Deep Learning,Presentation,2019,Angelo Oliviera,TOTVS,malware,supervised machine learning
+AI Village at DEFCON,Automated Injection and Removal of Medical Evidence in CT and MRI Scans,Presentation,2019,Yisroel Mirsky,Georgia Tech,"adversarial learning, medical devices",supervised machine learning
+AI Village at DEFCON,Loss is More! Improving Malware Detectors by Learning Additional Tasks,Presentation,2019,Ethan Rudd,Sophos,malware,supervised machine learning
+AI Village at DEFCON,Backdooring Convolutional Neural networks via Targeted Weight Perturbations,Presentation,2019,Walter Scheirer,University of Notre Dame,"adversarial learning, facial recognition",supervised machine learning
+AI Village at DEFCON,How to Get Over Your Malicious Ex(tensions) using Deep Learning,Presentation,2019,"Roei Amit, Tal Leibovich","Deep Instinct, Deep Instinct ",malware,supervised machine learning
+AI Village at DEFCON,MD: Multimedia Disinformation - Is There a Doctor in the House?,Presentation,2019,Rand Waltzman,RAND,"fake news, deepfakes",framework building
+AI Village at DEFCON,Machine Learning's Privacy Problem,Presentation,2019,Jason Mancusco,Dropout Labs,privacy,framework building
+AI Village at DEFCON,A Tutorial on Hacking Facial Recognition Systems,Presentation,2019,"Richard Harang, Ethan Rudd","Sophos, Sophos","facial recognition, adversarial learning",framework building
+AI Village at DEFCON,Clairvoyance: Concurrent Lip-Reading for the Smart Masses,Presentation,2019,"Kenya Yoshimura, Takahiro Yoshmura","Monolith Works, Monolith Works",unknown,"supervised machine learning, natural language processing"
+AI Village at DEFCON,Securing Your Kubeflow Clusters,Presentation,2019,Barton Rhodes,DaVita,security design,framework building
+AI Village at DEFCON,AI vs. Airplanes vs. IT-Security: What Security Regulations Teach us About AI Governance,Presentation,2019,Laurin Weissinger,Yale University,AI governance,framework building
+AI Village at DEFCON,"Deepfakes, Deep Trouble: Analyzing the Effects of Deepfakes on Market Manipulation",Presentation,2019,Anna Skelton,Bank of America,deepfakes,framework building
+AI Village at DEFCON,Behavioral Biometrics and Context Analytics: Risk Based Authentication Reimagined,Presentation,2019,"Jesus Solano, David Camacho","Cyxtera, Cyxtera",authentication,supervised machine learning
+AI Village at DEFCON,Faults in our Pi Stars: Security Issues and Challenges in Deep Reinforcement Learning,Presentation,2019,Vahid Behzadan,University of New Haven,adversarial learning,reinforcement learning
+AI Village at DEFCON,Identifying and Correlating Anomalies in Internetwide Scan,Presentation,2018,Andrew Morris,GreyNoise Intelligence,"network traffic, threat intelligence",software tool development
+AI Village at DEFCON,Chatting Your Programs to Find Vulnerabilities,Presentation,2018,Chris Gardner,University of Maryland Baltimore County,"vulnerability management, code analysis",natural language processing
+AI Village at DEFCON,Generating Labeled Data from Adversary Sims with MITRE ATT&CK,Presentation,2018,Brian Genz,Northwestern Mutual,"labeling, red teaming","dataset creation, supervised machine learning"
+AI Village at DEFCON,The Great Power of AI: Algorithmic Mirrors of Society,Presentation,2018,Aylin Caliskan,George Washinton University,AI governance,natural language processing
+AI Village at DEFCON,Machine Learning Model Hardening: For Fun and Profit,Presentation,2018,Ariel Herbert Voss,Harvard University,adversarial learning,framework building
+AI Village at DEFCON,Automated Planning for the Automated Red Team,Presentation,2018,Andy Applebaum,MITRE,"red teaming, automation",optimization
+AI Village at DEFCON,Hunting the Ehthereum Smart Contract: Color Inspired Inspection,Presentation,2018,Tonton Huang,Leopard Mobile,blockchain,supervised machine learning
+AI Village at DEFCON,Adversarial Patches,Presentation,2018,Sven Cattell,Endgame,adversarial learning,supervised machine learning
+AI Village at DEFCON,Towards a Framework to Quantitatively Assess AI Safety,Presentation,2018,Ram Shankar Siva Kumar,Microsoft,AI safety,framework building
+AI Village at DEFCON,JMPgate: Accelerating Reverse Engineering into Hyperspace,Presentation,2018,Rob Brandon,Booz Allen,code analysis,supervised machine learning
+AI Village at DEFCON,StuxNNet Practical Live Memory Attacks on Machine Learning,Presentation,2018,Raphael Norwitz,Nutanix,code analysis,supervised machine learning
+AI Village at DEFCON,It is a Beautiful Day in the Malware Neighborhood,Presentation,2018,Matt Maisel,Cylance,malware,supervised machine learning
+AI Village at DEFCON,Rapid Anomaly Detection via Ransom Note File Classification,Presentation,2018,Mark Mager,Endgame,"malware, ransomware","dataset creation, natural language processing, supervised machine learning"
+AI Village at DEFCON,Beyond Adversarial Learning: Security Risks in AI Implementations,Presentation,2018,Kang Li,University of Georgia,adversarial learning,framework building
+AI Village at DEFCON,DeepPhish: Simulating the Malicious Use of AI,Presentation,2018,Ivan Torroledo,Cyxtera,"malicious domains, adversarial learning",supervised machine learning
+AI Village at DEFCON,The Current State of Adversarial Machine Learning,Presentation,2018,Heather Lawrence,Nebraska Applied Research Institute,adversarial learning,framework building
+AI Village at DEFCON,Detecting Web Attacks with Recurrent Neural Networks,Presentation,2018,Fedor Sakharov,Positive Technologies,network traffic,natural language processing
