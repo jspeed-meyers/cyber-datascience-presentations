@@ -20,4 +20,14 @@ notebook that cleans and then analyzes this dataset, see the "csds_presentations
 ```
 From my blog post on this topic:
 
-An observer can be forgiven for believing that cybersecurity, data science, and especially cybersecurity data science are immature fields. The cybersecurity field is nascent enough that the National Security Agency (NSA) sponsors the Science of Security Initiative (see their annual best-paper competition) to explicitly “mature” this area of research. Data science — a field so wide-ranging that I hesitate to offer a definition — is arguably even less mature than cybersecurity. If cybersecurity is a young adult, then data science is a wide-eyed middle schooler. So, how can the field of cybersecurity data science move towards analytical adulthood? One step in the right direction might involve some reflection on recent developments. For instance, what are the topic areas within this field? What research methods are commonly employed? What methods are paired with what research areas? And, most tentatively, what explains any patterns of research activity?
+An observer can be forgiven for believing that cybersecurity, data science, and especially
+cybersecurity data science are immature fields. The cybersecurity field is nascent enough
+that the National Security Agency (NSA) sponsors the Science of Security Initiative (see
+their annual best-paper competition) to explicitly “mature” this area of research. Data science
+— a field so wide-ranging that I hesitate to offer a definition — is arguably even less
+mature than cybersecurity. If cybersecurity is a young adult, then data science is a
+wide-eyed middle schooler. So, how can the field of cybersecurity data science move
+towards analytical adulthood? One step in the right direction might involve some reflection
+on recent developments. For instance, what are the topic areas within this field? What
+research methods are commonly employed? What methods are paired with what research areas?
+And, most tentatively, what explains any patterns of research activity?
